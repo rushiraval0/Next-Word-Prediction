@@ -1,6 +1,5 @@
 # Next Word Prediction using LSTM Networks
 
-![ECE657](https://via.placeholder.com/150) <!-- Consider adding a relevant thumbnail -->
 
 ## Overview
 This repository presents a Next Word Prediction model implemented using LSTM (Long Short-Term Memory) networks. The project focuses on training a sequence prediction model on the "Alice in Wonderland" text dataset (`alice.txt`). Key steps include text preprocessing, tokenization, sequence generation, model architecture design, and evaluation. Two models are compared: a baseline LSTM and an improved model with Bidirectional LSTM, Dropout, and Layer Normalization to mitigate overfitting. The project also explores text generation with temperature-based sampling to control output diversity.
